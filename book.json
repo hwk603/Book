@@ -30,8 +30,8 @@
         "paperSize": "a4"
     },
     "plugins": [
-		"comscore",
-		"multipart"
+		"multipart",
+		"zealar"
 	],
     "title": "Sample GitBook",
     "variables": {}
