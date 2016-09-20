@@ -31,8 +31,14 @@
     },
     "plugins": [
 		"multipart",
-		"zealar"
+		"zealar",
+		"-sharing",
+		"-livereload",
+		"-search"
 	],
     "title": "Sample GitBook",
-    "variables": {}
+    "variables": {},
+	"outputfile": "test.md",
+    "catalog": "all",
+    "ignores": ["node_modules"]
 }
