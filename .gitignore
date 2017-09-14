@@ -1,5 +1,5 @@
 _book
-node_modules/
+node_modules
 gulpfile.js
 yarn.lock
 package.json
