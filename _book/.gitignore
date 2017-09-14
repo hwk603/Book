@@ -1,9 +1,0 @@
-node_modules/
-gulpfile.js
-yarn.lock
-package.json
-package-lock.json
-npm-debug.log
-.publish
-_book
-_book/
