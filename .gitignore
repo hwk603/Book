@@ -8,8 +8,10 @@
 node_modules
 
 # Book build output
-./_book/**/*
+
 _book/
+_book
+node_modules/**/*
 # eBook build output
 *.epub
 *.mobi
