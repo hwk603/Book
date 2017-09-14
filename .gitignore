@@ -1,1 +1,8 @@
 _book 
+gulpfile.js
+yarn.lock
+package.json
+package-lock.json
+npm-debug.log
+node_modules
+.publish
